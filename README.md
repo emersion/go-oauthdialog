@@ -1,10 +1,12 @@
 # go-oauthdialog
 
+[![GoDoc](https://godoc.org/github.com/emersion/go-oauthdialog?status.svg)](https://godoc.org/github.com/emersion/go-oauthdialog)
+
 A Go library to present an OAuth2 dialogs to the user.
 
 ## Usage
 
-```
+```go
 package main
 
 import (
